@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model UdyamRegistration {
+  id                Int      @id @default(autoincrement())
+  registrationId    String   @unique
+  aadhaarNumber     String
+  entrepreneurName  String
+  enterpriseName    String
+  enterpriseType    String
+  panNumber         String
+  gstinNumber       String?
+  mobileNumber      String
+  emailId           String   @unique
+  district          String
+  pinCode           String
+  submittedAt       DateTime @default(now())
+  status            String   @default("submitted")
+}
