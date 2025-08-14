@@ -2,6 +2,19 @@
 
 This is a full-stack web application for a simplified Udyam registration process. It includes a frontend form with validation, a backend API for processing the registration, and a PostgreSQL database for storing the data.
 
+# Screenshots
+<img width="1920" height="1386" alt="screencapture-file-home-mriganka-Desktop-programming-times-udyam-index-html-2025-08-14-17_30_12" src="https://github.com/user-attachments/assets/2ef9c5ef-f0cd-4466-82fb-8a6521b23331" />
+<img width="1920" height="1527" alt="screencapture-file-home-mriganka-Desktop-programming-times-udyam-index-html-2025-08-14-17_34_28" src="https://github.com/user-attachments/assets/f071f9d4-0ed7-4420-bfdb-7c3adaa048f7" />
+<img width="1920" height="1432" alt="screencapture-file-home-mriganka-Desktop-programming-times-udyam-index-html-2025-08-14-17_36_33" src="https://github.com/user-attachments/assets/b9f78d67-ab81-4d71-8d47-4282a5210ca3" />
+<img width="1920" height="1193" alt="screencapture-file-home-mriganka-Desktop-programming-times-udyam-index-html-2025-08-14-17_36_46" src="https://github.com/user-attachments/assets/d12c552a-df44-4559-8597-19fc47a34716" />
+<img width="480" height="389" alt="Screenshot from 2025-08-14 17-37-26" src="https://github.com/user-attachments/assets/ba2a725f-bd96-47e0-b1e5-aa3c29a219df" />
+<img width="1920" height="1080" alt="Screenshot from 2025-08-14 17-37-52" src="https://github.com/user-attachments/assets/2e27d663-60f4-4de6-aa00-25254273b1cf" />
+
+
+
+
+
+
 ## Features
 
 -   **Two-Step Registration Form:** A user-friendly two-step registration form with Aadhaar and OTP verification.
